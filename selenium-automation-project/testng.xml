@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DemoQA Automation Suite">
+    <test name="All DemoQA Tests">
+        <classes>
+            <class name="tests.SignupTest"/>
+            <class name="tests.SignupNegativeTest"/>
+            <class name="tests.LoginTest"/>
+            <class name="tests.AlertsTest"/>
+        </classes>
+    </test>
+</suite>
